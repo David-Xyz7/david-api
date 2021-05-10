@@ -1,11 +1,11 @@
 <div align="center">
  
-# Source Codes - Zhirrr's API
+# Source Codes - DAVID API
 <p align="center">
-<a href="#"><img title="Zhirrr's API" src="https://img.shields.io/badge/Zhirrr Api-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="DAVID APIs" src="https://img.shields.io/badge/Zhirrr Api-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Zhirrr"><img title="Author" src="https://img.shields.io/badge/Author-Zhirrr-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/DAVIDGBZ1"><img title="Author" src="https://img.shields.io/badge/Author-DAVIDGNZ1-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Zhirrr/followers"><img title="Followers" src="https://img.shields.io/github/followers/Zhirrr?color=red&style=flat-square"></a>
